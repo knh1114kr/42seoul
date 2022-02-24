@@ -1,0 +1,5 @@
+Credentials cache: API:CD628610-7910-452E-A643-1E0B634B489E
+        Principal: nakyoung@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan 31 15:29:34 2022  Feb  1 01:29:34 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
